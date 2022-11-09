@@ -1,0 +1,48 @@
+
+*{
+	box-sizing: border-box;
+}
+body{background-color: black;
+display: grid;
+place-items: center;}
+#i {
+	height: 300px;
+	width: 50%;
+	background-color: red;
+	float: left;
+}
+
+#ii{
+	height: 200px;
+	width: 50%;
+	background-color: green;
+	float: left;
+}
+
+#iii{
+	height: 200px;
+	width: 50%;
+	background-color: black;
+	float: right;
+}
+
+#iv{
+	height: 300px;
+	width: 50%;
+	background-color: rgb(200,200,26);
+	float: right;
+}
+
+#v{
+	height: 200px;
+	width: 50%;
+	background-color: rgb(51,165,156);
+	float: left;
+}
+
+#vi{
+	
+}
+#vii{
+	
+}

@@ -1,0 +1,46 @@
+#i {
+	height: 200px;
+	width: 100%;
+	background: red;
+}
+
+#ii{
+	height: 200px;
+	width: 30%;
+	background: green;
+	float: left;
+}
+
+#iii{
+	height: 200px;
+	width: 40%;
+	background: blue;
+	float: left;
+}
+
+#iv{
+	height: 200px;
+	width: 30%;
+	background: green;
+	float: left;
+}
+
+#v{
+	height: 200px;
+	width: 50%;
+	background: rgb(51,165,156);
+	float: left;
+}
+
+#vi{
+	height: 100px;
+	width: 50%;
+	background: rgb(51,65,156);
+	float: left;
+}
+#vii{
+	height: 100px;
+	width: 50%;
+	background: rgb(151,31,199);
+	float: left;
+}
